@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Nitya Shukla - Resume
 permalink: /cv/
 ---
 ## Curriculum Vitae
