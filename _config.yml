@@ -17,7 +17,7 @@ baseurl                  : "/fa25-portfolio-NityaShukla8" # Set this to your rep
 
 # Theme and Style
 theme: jekyll-theme-minimal
-color_scheme: light # light/default, dark, or aqua
+color_scheme: aqua # light/default, dark, or aqua
 
 sass:
   style: compressed
