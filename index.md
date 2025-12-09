@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Nitya Shukla
+title: <Your Name>
 ---
 
 ## About Me

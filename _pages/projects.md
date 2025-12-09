@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Nitya Shukla - Portfolio
+title: <Your Name> - Portfolio
 permalink: /projects/
 ---
 
