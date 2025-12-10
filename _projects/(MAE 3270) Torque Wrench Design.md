@@ -1,7 +1,7 @@
 ---
 layout: project
 title: (MAE 3270) Torque Wrench Design 
-description: Advanced CAD Project
+description: Design Project
 technologies: [Autodesk Fusion, Ansys Mechanical, MATLAB]
 image: /assets/images/torque-wrench.jpg
 ---
