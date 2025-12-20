@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Fluid Mechanical Dissection
-description: Advanced CAD Project
+description: Fluid Mechanics Analysis
 technologies: [Autodesk Fusion]
 image: /assets/images/accordion.jpg
 ---

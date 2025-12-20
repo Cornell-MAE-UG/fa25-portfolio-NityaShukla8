@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Torque Wrench Design
-description: Design Project
+description: Materials Design Project
 technologies: [Autodesk Fusion, Ansys Mechanical, MATLAB]
 image: /assets/images/torque-wrench.jpg
 ---
