@@ -1,16 +1,20 @@
-// Default to light theme
+// Default (fallback)
 $primary-color: #3a3f58;
-$background-color: #f7f8fa;
+$background-color: #ffffff;
 $text-color: #333;
 
 // Set theme colors based on the color_scheme variable
-@if $color_scheme == 'dark' {
+@if $color_scheme == 'light' {
+  $primary-color: #3a3f58;
+  $background-color: #ffffff;
+  $text-color: #333;
+} @else if $color_scheme == 'dark' {
   $primary-color: #333;
   $background-color: #000;
   $text-color: #fff;
 } @else if $color_scheme == 'aqua' {
   $primary-color: #598392;
-  $background-color: #eff6e0;
+  $background-color: #ffffff; // no green
   $text-color: #01161e;
 } @else if $color_scheme == 'desert' {
   $primary-color: #925959;

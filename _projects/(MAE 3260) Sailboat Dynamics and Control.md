@@ -1,6 +1,6 @@
 ---
 layout: project
-title: (MAE 3260) Sailboat Dynamics Model
+title: Sailboat Dynamics and Control Model
 description: System Dynamics
 technologies: [MATLAB]
 image: /assets/images/sailboat.jpg
