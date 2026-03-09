@@ -12,6 +12,8 @@ Problem Set 3 was one of the most valuable and educational assignments in the co
 
 This method is especially useful because it provides a more powerful and general approach for analyzing heat transfer than techniques discussed earlier in the course. Previous methods mainly considered simple one-dimensional systems with uniform materials; they could not be used to determine the temperature at arbitrary points within a control volume. In contrast, the heat equation can be applied to more complex, real-world problems involving multidimensional geometries and materials with non-uniform thermal properties. The final problem in the assignment introduced thermal resistance networks, which serve as another practical tool for analyzing heat transfer. By modeling thermal processes with resistances arranged in parallel or series relative to one another, it becomes possible to determine heat flux and unknown temperatures within a system. This approach is analogous to electrical circuits, where temperature difference corresponds to voltage, heat flux corresponds to current, and thermal resistance plays the same role as electrical resistance. Learning this analogy and applying it to an example (i.e., finding the exterior surface temperature of a superalloy blade) demonstrated how thermal resistance networks can simplify the analysis of complicated heat transfer systems. 
 
+**Assignment Upload:**
+
 <embed 
   src="{{ '/assets/heat-eqn-thermal-resistance.pdf' | relative_url }}" 
   type="application/pdf" 
