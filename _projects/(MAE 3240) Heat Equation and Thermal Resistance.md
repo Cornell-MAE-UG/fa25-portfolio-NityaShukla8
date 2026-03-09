@@ -7,24 +7,10 @@ image: /assets/images/thermometer.png
 ---
 
 **Overview:**
-Problem set 3 was one of the most valuable and educational assignments of the course. This problem set called for the derivation of the governing differential equation, describing the temperature profile of a rod. 
-To implement the heat equation in finding the spatial temperature profile of objects. This technique serves as another tool to analyze the heat transfer through different objects. Whereas previous strategies for solving heat transfer problems
 
-This method is esspecially important because it can be applied to rea-world problems, with more complex geometries and materials. Previous methods considered simple one-dimentional geometry with uniform material. The heat equation is able to account for three-dimensional obbjects with non-unifrom properties (e.g., different conductive heat transfer coefficients in x-, y-, and z-directions 
-With the rate equation, a mathematical relationship between q'' and T can be derived. 
-Also went into the derivation of the heat equation, which is a useful process to be cognizant of: begin by applying energy balance and rate equation to differential control volume. Use Fourier's law as well as the Taylor series expansion of heat flow through the surface at some other position x + dx
+Problem Set 3 was one of the most valuable and educational assignments in the course because it required the implementation of the heat equation in finding the spatial temperature profile of objects. The first two problems involved applying the heat equation to derive the governing equation and determine the temperature distribution within a solid. In this assignment, I learned how to derive the heat equation, specifically by applying an energy balance to a differential control volume and using Fourier’s law to describe conductive heat transfer. The derivation also incorporated a Taylor series expansion to represent the heat flow entering and leaving the control volume at a position x+dx. Through this process, I gained a deeper understanding of how the heat equation mathematically relates heat flux and temperature. The problem set also emphasized the importance of boundary conditions and initial conditions in determining unknown constants within the governing equation. Common boundary conditions include constant surface temperature, constant heat flux (corresponding to insulated or adiabatic surfaces), and convective boundary conditions. Each of these cases can be represented mathematically, in a way that can be useful in evaluating constants of the governing equation. The heat equation can be used to derive the governing equation for different geometries and thermal conditions. For instance, a one-dimensional system with constant thermal conductivity, steady-state conditions, and no heat generation leads to a linear temperature profile.
 
-Can use the heat equation for different cases: for example, a one-dimensional system with constant thermal conducitvity at steady=state and with no heat generation is derived to have a linear temperature profile. 
-Importance of boundary and initial conditions in determining unknonw constants in derived governing equation. Boundary conditions include cosnatant surface temperature, constant surface heat flux (btoh for a finite heat flux and an adiabatic or insulated surface), as well as a convective surface condition
-
-
-Consider different boundary and intitial conditions 
-whereas the previous approach --> cannot determine temp. at any arbitrary point within control volume
-last problem of problem set involved the concept of thermal resistances --> their use in determining the temperature within a control volume, given that the heat flux through thermal resistance network is known
-
-
-What i learned from assignment
-how it is useful to me
+This method is especially useful because it provides a more powerful and general approach for analyzing heat transfer than techniques discussed earlier in the course. Previous methods mainly considered simple one-dimensional systems with uniform materials; they could not be used to determine the temperature at arbitrary points within a control volume. In contrast, the heat equation can be applied to more complex, real-world problems involving multidimensional geometries and materials with non-uniform thermal properties. The final problem in the assignment introduced thermal resistance networks, which serve as another practical tool for analyzing heat transfer. By modeling thermal processes with resistances arranged in parallel or series relative to one another, it becomes possible to determine heat flux and unknown temperatures within a system. This approach is analogous to electrical circuits, where temperature difference corresponds to voltage, heat flux corresponds to current, and thermal resistance plays the same role as electrical resistance. Learning this analogy and applying it to an example (i.e., finding the exterior surface temperature of a superalloy blade) demonstrated how thermal resistance networks can simplify the analysis of complicated heat transfer systems.
 
 <embed 
   src="{{ '/assets/heat-eqn-thermal-resistance.pdf' | relative_url }}" 
