@@ -2,7 +2,7 @@
 layout: project
 title: Heat Equation & Thermal Resistance
 description: Assignment Upload
-technologies: [Numerical Calculation Devices]
+technologies: [Numerical Calculation]
 image: /assets/images/thermometer.png
 ---
 
