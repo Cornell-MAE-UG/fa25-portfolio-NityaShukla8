@@ -32,3 +32,9 @@ image: /assets/images/mechatronics-robot.jpg
   - Wrote outlines and draft content for the “Design Process Reflection,” “Competition Analysis,” “Conclusions,” and “Mechanical and Electrical Overview” sections
   - Edited and refined CAD figures and renderings included in the final report
   - Reviewed and edited the Bill of Materials (BOM) for accuracy and completeness
+
+<embed 
+  src="{{ '/assets/mechatronics-final-report.pdf' | relative_url }}" 
+  type="application/pdf" 
+  width="100%" 
+  height="700px" />
