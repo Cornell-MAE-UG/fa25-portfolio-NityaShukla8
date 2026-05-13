@@ -3,7 +3,7 @@ layout: project
 title: Block-Collecting Robot Project
 description: Mechatronics Robot Competition
 technologies: [Autodesk Fusion, C++]
-image: /assets/images/mechatronics-robot.png
+image: /assets/images/mechatronics-robot.jpg
 ---
 
 - **Milestone 1**
